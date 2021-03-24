@@ -49,7 +49,7 @@
       "choice1": "Paris Saint Germain",
       "choice2": "L'Olympique de Marseille",
       "choice3": "FC Rennes",
-      "choice4": "Qatar St-Germain",
+      "choice4": "Cara St-Germain",
       "answer": 1
     },
     {
@@ -94,6 +94,40 @@
       "choice3": "Americain",
       "choice4": "Hongrois",
       "answer": 1
+  }
+  ],
+  "Programmation": [
+    {
+      "question": "En quelle année a été creer le langage C ?",
+      "choice1": "Début des années 70",
+      "choice2": "Début des années 90",
+      "choice3": "Début des années 80",
+      "choice4": "Début des années 50",
+      "answer": 1
+    },
+    {
+      "question" : "Quel outil permet de designer en forme une page web ?",
+      "choice1": "Java",
+      "choice2": "C++",
+      "choice3": "Html",
+      "choice4": "Css",
+      "answer": 4
+    },
+    {
+      "question" : "Quel balise HTML permet de mettre des caractères en titre ?",
+      "choice1": "La balise h1 ",
+      "choice2": "La balise a",
+      "choice3": "La balise img",
+      "choice4": "La balise p",
+      "answer": 1
+    },
+    {
+      "question": "Quel langage de programmation a vu le jour en 1991 ?",
+      "choice1": "C#",
+      "choice2": "Python",
+      "choice3": "Kobold",
+      "choice4": ".NET",
+      "answer": 2
   }
   ]
 }
