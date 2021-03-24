@@ -1,64 +1,99 @@
 {
-    "PERSONNAGES": [
-      {
-        "question": "Quel est le moba de Riot Games ?",
-        "choice1": "Dota 2",
-        "choice2": "BattleField",
-        "choice3": "Call Of Duty",
-        "choice4": "League of Legends",
-        "answer": 4
-      },
+  "Jeux": [
+    {
+      "question": "Quel est le moba de Riot Games ?",
+      "choice1": "Dota 2",
+      "choice2": "BattleField",
+      "choice3": "Call Of Duty",
+      "choice4": "League of Legends",
+      "answer": 4
+    },
 
-      {
-        "question": "Quel jeu contient l'agent Jaeger ?",
-        "choice1": "League of Legends",
-        "choice2": "Rainbow Six Siege",
-        "choice3": "FIFA 21",
-        "choice4": "PNL",
-        "answer": 2
-      },
-      {
-        "question": "Combien de joueurs disputent une partie de League of Legends ?",
-        "choice1": "10",
-        "choice2": "12",
-        "choice3": "7",
-        "choice4": "9",
-        "answer": 1
-      },
-      
+    {
+      "question": "Quel jeu contient l'agent Jaeger ?",
+      "choice1": "League of Legends",
+      "choice2": "Rainbow Six Siege",
+      "choice3": "FIFA 21",
+      "choice4": "PNL",
+      "answer": 2
+    },
+    {
+      "question": "Combien de joueurs disputent une partie de League of Legends ?",
+      "choice1": "10",
+      "choice2": "12",
+      "choice3": "7",
+      "choice4": "9",
+      "answer": 1
+    } 
+  ],
 
-      {
-        "question": "En quelle année la France gagne sa première coupe du monde ?",
-        "choice1": "2012",
-        "choice2": "2008",
-        "choice3": "2018",
-        "choice4": "1998",
-        "answer": 4
-      },
-      {
-        "question" : "Comment s'appelle le joueur nommé Zizou ?",
-        "choice1": "Abel Bertrand",
-        "choice2": "Mokthar delahaye",
-        "choice3": "Zinedine Zidane",
-        "choice4": "Jean Payet",
-        "answer": 3
-      },
-      {
-        "question" : "Comment s'appelle le club de Paris ?",
-        "choice1": "Paris Saint Germain",
-        "choice2": "L'Olympique de Marseille",
-        "choice3": "FC Rennes",
-        "choice4": "Cara St-Germain",
-        "answer": 1
-      },
-      {
-        "question": "Quel est le pire Club Français ? ",
-        "choice1": "FC Beauvoir",
-        "choice2": "L'OM",
-        "choice3": "L'eauM",
-        "choice4": "Marseille",
-        "answer": 2
-    }
-
-    ]
+  "Foot": [
+    {
+      "question": "En quelle année la France gagne sa première coupe du monde ?",
+      "choice1": "2012",
+      "choice2": "2008",
+      "choice3": "2018",
+      "choice4": "1998",
+      "answer": 4
+    },
+    {
+      "question" : "Comment s'appelle le joueur nommé Zizou ?",
+      "choice1": "Abel Bertrand",
+      "choice2": "Mokthar delahaye",
+      "choice3": "Zinedine Zidane",
+      "choice4": "Jean Payet",
+      "answer": 3
+    },
+    {
+      "question" : "Comment s'appelle le club de Paris ?",
+      "choice1": "Paris Saint Germain",
+      "choice2": "L'Olympique de Marseille",
+      "choice3": "FC Rennes",
+      "choice4": "Cara St-Germain",
+      "answer": 1
+    },
+    {
+      "question": "Quel est le pire Club Français ? ",
+      "choice1": "FC Beauvoir",
+      "choice2": "L'OM",
+      "choice3": "L'eauM",
+      "choice4": "Marseille",
+      "answer": 2
   }
+  ],
+
+  "Culture": [
+    {
+      "question": "En quelle année a demarré la première guerre mondiale ?",
+      "choice1": "1914",
+      "choice2": "2008",
+      "choice3": "1939",
+      "choice4": "1918",
+      "answer": 1
+    },
+    {
+      "question" : "Qui est le meilleur sprinter de l'entre-deux guerres ?",
+      "choice1": "Kobe Bryant",
+      "choice2": "Jesse Owens",
+      "choice3": "Zinedine Zidane",
+      "choice4": "Usain Bolt",
+      "answer": 2
+    },
+    {
+      "question" : "En quelle année est née la reine Elizabeth 2 ?",
+      "choice1": "1899",
+      "choice2": "1930",
+      "choice3": "1926",
+      "choice4": "1940",
+      "answer": 3
+    },
+    {
+      "question": "De quelle nationalité était le char moyen T34 ?",
+      "choice1": "Russe",
+      "choice2": "Allemand",
+      "choice3": "Americain",
+      "choice4": "Hongrois",
+      "answer": 1
+  }
+  ]
+}
